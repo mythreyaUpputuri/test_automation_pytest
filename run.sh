@@ -6,3 +6,4 @@ pip3 install pytest-xdist
 pip3 install pytest-ordering
 pip3 install openpyxl
 pip3 install allure-pytest
+
